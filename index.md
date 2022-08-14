@@ -36,8 +36,8 @@ As a first generation computer science major, I aim to work in the cyber securit
 
 ## Enhanced Artifact I: Agile Project Charter and SNHU Travel Webinar Application
 
-<p align="center">
-### Both original and enhanced artifacts can be found in the GitHub Repo [aruhstosnhu/SNHUTravelWebinar](https://github.com/aruhstosnhu/SNHUTravelWebinar)
+### <p align="center">
+Both original and enhanced artifacts can be found in the GitHub Repo [aruhstosnhu/SNHUTravelWebinar](https://github.com/aruhstosnhu/SNHUTravelWebinar)
 </p>
 
 The artifact I decided to go with for Enhancement One is my “Top 5 Destinations SlideShow” Java application. I also chose to update the application’s project charter. It was originally created in my CS-250 course, Software Development Lifecycle,  in October of 2019. 
@@ -84,12 +84,12 @@ Yes, my updated code shows that I am able to create a more advanced slideshow wi
 ## Enhanced Artifact II: SNHU Zoo Monitoring System Application and PowerShell Scripting
 
 
-<p align="center">
-### Both original and enhanced artifacts can be found in the GitHub Repo [aruhstosnhu/monitoringSystem](https://github.com/aruhstosnhu/monitoringSystem)
+### <p align="center">
+Both original and enhanced artifacts can be found in the GitHub Repo [aruhstosnhu/monitoringSystem](https://github.com/aruhstosnhu/monitoringSystem)
 </p>
 
 ## Enhanced Artifact III: Animal Shelter SQL Database and Datamining
 
-<p align="center">
-### Both original and enhanced artifacts can be found in the GitHub Repo [aruhstosnhu/animalShelter](https://github.com/aruhstosnhu/animalShelter)
+### <p align="center">
+Both original and enhanced artifacts can be found in the GitHub Repo [aruhstosnhu/animalShelter](https://github.com/aruhstosnhu/animalShelter)
 </p>
