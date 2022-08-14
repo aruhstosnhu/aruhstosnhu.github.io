@@ -55,6 +55,10 @@ The reason why I chose this artifact is because my enhanced charter will show th
 - In Marketing slide, added link to Google Sheet that displays pricing chart
 - Edited SDLC Charter to include Sales and Marketing team
 
+<p align="center">
+  <img width="300" height="400" src="https://user-images.githubusercontent.com/92700885/184548261-351a3273-0fd5-4fdf-9ef3-250fda8e6756.png">
+</p>
+
 ### Course and Industry Objectives
 
 Enhancement One meets the following CS-499 objectives, specifically:
