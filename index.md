@@ -18,25 +18,27 @@ As a first generation computer science major, I aim to work in the cyber securit
 
 ### Artifact I: Software Design and Engineering
 
-<p algn="center">
+<p align="center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/M4LQ0I3rGlU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
 ### Artifact II: Algorithms and Data Structure
 
-<p algn="center">
+<p align="center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1G0zmqa6UAo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
 ### Artifact III: Databases
 
-<p algn="center">
+<p align="center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aDng4rGg-mc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
 ## Enhanced Artifact I: Agile Project Charter and SNHU Travel Webinar Application
 
 ### Both original and enhanced artifacts can be found in the GitHub Repo [aruhstosnhu/SNHUTravelWebinar](https://github.com/aruhstosnhu/SNHUTravelWebinar)
+
+
 
 ## Enhanced Artifact II: SNHU Zoo Monitoring System Application and PowerShell Scripting
 
