@@ -24,9 +24,15 @@ As a first generation computer science major, I aim to work in the cyber securit
 
 ### Artifact II: SNHU Zoo Monitoring System Application
 
+<p algn="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1G0zmqa6UAo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
 
 ### Artifact III: Animal Shelter SQL Database and Datamining
 
+<p algn="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aDng4rGg-mc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
 
 ## Artifact I: Agile Project Charter and SNHU Travel Webinar Application
 
