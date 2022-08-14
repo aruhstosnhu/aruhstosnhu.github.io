@@ -36,7 +36,13 @@ As a first generation computer science major, I aim to work in the cyber securit
 
 ## Artifact I: Agile Project Charter and SNHU Travel Webinar Application
 
+### Both original and enhanced artifacts can be found in the GitHub Repo [aruhstosnhu/SNHUTravelWebinar](https://github.com/aruhstosnhu/SNHUTravelWebinar)
+
 ## Artifact II: SNHU Zoo Monitoring System Application and PowerShell Scripting
 
+### Both original and enhanced artifacts can be found in the GitHub Repo [aruhstosnhu/monitoringSystem](https://github.com/aruhstosnhu/monitoringSystem)
+
 ## Artifact III: Animal Shelter SQL Database and Datamining
+
+### Both original and enhanced artifacts can be found in the GitHub Repo [aruhstosnhu/animalShelter](https://github.com/aruhstosnhu/animalShelter)
 
