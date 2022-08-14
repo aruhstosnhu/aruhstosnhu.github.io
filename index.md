@@ -59,18 +59,25 @@ The reason why I chose this artifact is because my enhanced charter will show th
 
 I believe Enhancement One meets the following CS-499 objectives, specifically:
 
-1. CS-499-01:
-  - Does the student demonstrate the ability to provide contextual, in-code comments that result in easily readable and understandable code?   Yes, my code includes in-depth and improved comments throughout my application that details what each section does.
-  - Does the student demonstrate the ability to support decision making for software design stakeholders?   Yes, my improved project charter shows that I understand and incorporate all departments in decision making when creating software.
-  - Does the student demonstrate the ability to discuss experiences and best practices working in collaborative environments?   Yes, my improved project charter shows that I am able to discuss best practices when working in an SDLC SCRUM environment with multiple departments.
+1. **CS-499-01:**
+  - *Does the student demonstrate the ability to provide contextual, in-code comments that result in easily readable and understandable code?*   
+Yes, my code includes in-depth and improved comments throughout my application that details what each section does.
+  - *Does the student demonstrate the ability to support decision making for software design stakeholders?*   
+Yes, my improved project charter shows that I understand and incorporate all departments in decision making when creating software.
+  - *Does the student demonstrate the ability to discuss experiences and best practices working in collaborative environments?*   
+Yes, my improved project charter shows that I am able to discuss best practices when working in an SDLC SCRUM environment with multiple departments.
 
-2. CS-499-02:
-  - Does the student demonstrate the ability to communicate appropriately to specific audiences and contexts?   Yes, both my improved code and project charter show that I am able to communicate to the targeted audience of the SNHU Travel Slideshow.
-  - Does the student demonstrate the ability to clearly convey his or her ideas and explain his or her thought process through written, visual, or oral communication?   Yes, my improved project charter shows that I understand every corner of the SDLC lifecycle, and how to communicate with non-technical departments.
+2. **CS-499-02:**
+  - *Does the student demonstrate the ability to communicate appropriately to specific audiences and contexts?*   
+Yes, both my improved code and project charter show that I am able to communicate to the targeted audience of the SNHU Travel Slideshow.
+  - *Does the student demonstrate the ability to clearly convey his or her ideas and explain his or her thought process through written, visual, or oral communication?*   
+Yes, my improved project charter shows that I understand every corner of the SDLC lifecycle, and how to communicate with non-technical departments.
 
-3. CS-499-04:
-  - Does the student demonstrate the ability to use the software development life cycle to create realistic production schedules for software projects?   Yes, my updated project chart clearly demonstrates that I understand the SDLC production schedules and how to communicate with departments involved in the creation of an application.
-  - Does the student create more robust and efficient code to deliver value and accomplish industry-specific goals?   Yes, my updated code shows that I am able to create a more advanced slideshow with improved images, improved slides, improved background visuals, as well as the ability to connect to links outside of the application.
+3. **CS-499-04:**
+  - *Does the student demonstrate the ability to use the software development life cycle to create realistic production schedules for software projects?*   
+Yes, my updated project chart clearly demonstrates that I understand the SDLC production schedules and how to communicate with departments involved in the creation of an application.
+  - *Does the student create more robust and efficient code to deliver value and accomplish industry-specific goals?*   
+Yes, my updated code shows that I am able to create a more advanced slideshow with improved images, improved slides, improved background visuals, as well as the ability to connect to links outside of the application.
 
 ## Enhanced Artifact II: SNHU Zoo Monitoring System Application and PowerShell Scripting
 
