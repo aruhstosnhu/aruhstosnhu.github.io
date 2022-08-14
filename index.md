@@ -46,8 +46,8 @@ The reason why I chose this artifact is because my enhanced charter will show th
 
 ### Enhancements
 
-- Changed Title of window to be more relevant setTitle("SNHU Travel Webinar");
-- Edited Text background variable to yellow so it is easier to read textPane.setBackground(Color.YELLOW);
+- Changed Title of window to be more relevant `setTitle("SNHU Travel Webinar");`
+- Edited Text background variable to yellow so it is easier to read `textPane.setBackground(Color.YELLOW);`
 - Added 2 additional slides with HTML markdown enhancements (Title and Marketing)
 - Added images of actual destinations that display in each individual slide
 - Added more in-depth comments within the code to explain the execution of each step in more-detail
