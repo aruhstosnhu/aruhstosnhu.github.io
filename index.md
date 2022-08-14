@@ -69,7 +69,7 @@ The reason why I chose this artifact is because my enhanced charter will show th
 
 ### Course and Industry Objectives
 
-Enhancement One meets the following CS-499 objectives, specifically:
+Enhancement One meets the following CS-499 course and industry objectives, specifically:
 
 1. **CS-499-01:**
   - *Does the student demonstrate the ability to provide contextual, in-code comments that result in easily readable and understandable code?*   
@@ -117,7 +117,7 @@ The reason why I chose this artifact is because adding the two new methods to co
 
 ### Course and Industry Objectives
 
-Enhancement Two meets the following CS-499 objectives, specifically:
+Enhancement Two meets the following CS-499 course and industry objectives, specifically:
 
 1. **CS-499-01:**
   - *Does the student demonstrate the ability to provide contextual, in-code comments that result in easily readable and understandable code?*   
@@ -157,7 +157,7 @@ The reason why I chose this artifact is because creating a MySQL database from s
 
 ### Course and Industry Objectives
 
-Enhancement Three meets the following CS-499 objectives, specifically:
+Enhancement Three meets the following CS-499 course and industry objectives, specifically:
 
 1. **CS-499-01:**
   - *Does the student demonstrate the ability to provide contextual, in-code comments that result in easily readable and understandable code?*   
