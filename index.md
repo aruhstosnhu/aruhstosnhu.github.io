@@ -99,11 +99,9 @@ The reason why I chose this artifact is because adding the two new methods to co
   - `GenerateHabitatReport.java`
 - Called to these two methods in my main method to display as choices in the application:
   - `MonitoringSystem.java`
-
 <p align="center">
-  <src="https://user-images.githubusercontent.com/92700885/184547527-9f579608-745a-4216-8844-2dad9ccf74be.png">
+  <img width="300" height="400" src="https://user-images.githubusercontent.com/92700885/184547527-9f579608-745a-4216-8844-2dad9ccf74be.png">
 </p>
-
 ### Course and Industry Objectives
 
 Enhancement Two meets the following CS-499 objectives, specifically:
