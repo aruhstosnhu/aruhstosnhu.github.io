@@ -101,7 +101,7 @@ The reason why I chose this artifact is because adding the two new methods to co
   - `MonitoringSystem.java`
 
 <p align="center">
-  <img width="550" height="550" src="https://user-images.githubusercontent.com/92700885/184547527-9f579608-745a-4216-8844-2dad9ccf74be.png">
+  <img width="400" height="400" src="https://user-images.githubusercontent.com/92700885/184547527-9f579608-745a-4216-8844-2dad9ccf74be.png">
 </p>
 
 ### Course and Industry Objectives
