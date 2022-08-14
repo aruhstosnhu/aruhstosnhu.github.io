@@ -1,5 +1,13 @@
 # Angela Ruhstorfer ePortfolio for Southern New Hampshire University
 
+My name is Angela (Angie) Ruhstorfer, and I am a student of Southern New Hampshire University's Computer Science program, with a concentration in Information Security. This ePortfolio contains three artifacts and their code reviews from three categories:
+
+1. Software Design and Engineering
+2. Algorithms and Data Structure
+3. Databases
+
+I've composed a professional self-assessment, as well as justification narratives and "Before and After" comparisons for each artifact. These components were developed previously in the earlier years of my SNHU program, and have now been further developed both in complexity and functionality in my final course to showcase my abilities.
+
 ## Table of Contents
 
 1. Professional Self-Assessment
