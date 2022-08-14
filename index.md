@@ -16,7 +16,17 @@ As a first generation computer science major, I aim to work in the cyber securit
 
 ## Code Review
 
+### Artifact I: Agile Project Charter and SNHU Travel Webinar Application
 
+https://user-images.githubusercontent.com/92700885/184543202-98626cdc-d46a-4c92-8a26-4014dfdef9ca.mp4
+
+### Artifact II: SNHU Zoo Monitoring System Application
+
+https://user-images.githubusercontent.com/92700885/184543246-6b264f00-495c-4155-8b87-cf40cdc50439.mp4
+
+### Artifact III: Animal Shelter SQL Database and Datamining
+
+https://user-images.githubusercontent.com/92700885/184543251-151bcd81-ef26-4512-8703-8fd356d29b20.mp4
 
 ## Artifact I: Agile Project Charter and SNHU Travel Webinar Application
 
