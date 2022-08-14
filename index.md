@@ -4,9 +4,9 @@
 
 1. Professional Self-Assessment
 2. Code Review
-3. Artifact I: Agile Project Charter and SNHU Travel Webinar Application
-4. Artifact II: SNHU Zoo Monitoring System Application
-5. Artifact III: Animal Shelter SQL Database and Datamining
+3. Enhanced Artifact I: Agile Project Charter and SNHU Travel Webinar Application
+4. Enhanced Artifact II: SNHU Zoo Monitoring System Application
+5. Enhanced Artifact III: Animal Shelter SQL Database and Datamining
 
 ## Professional Self-Assessment
 
@@ -34,15 +34,15 @@ As a first generation computer science major, I aim to work in the cyber securit
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aDng4rGg-mc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
-## Artifact I: Agile Project Charter and SNHU Travel Webinar Application
+## Enhanced Artifact I: Agile Project Charter and SNHU Travel Webinar Application
 
 ### Both original and enhanced artifacts can be found in the GitHub Repo [aruhstosnhu/SNHUTravelWebinar](https://github.com/aruhstosnhu/SNHUTravelWebinar)
 
-## Artifact II: SNHU Zoo Monitoring System Application and PowerShell Scripting
+## Enhanced Artifact II: SNHU Zoo Monitoring System Application and PowerShell Scripting
 
 ### Both original and enhanced artifacts can be found in the GitHub Repo [aruhstosnhu/monitoringSystem](https://github.com/aruhstosnhu/monitoringSystem)
 
-## Artifact III: Animal Shelter SQL Database and Datamining
+## Enhanced Artifact III: Animal Shelter SQL Database and Datamining
 
 ### Both original and enhanced artifacts can be found in the GitHub Repo [aruhstosnhu/animalShelter](https://github.com/aruhstosnhu/animalShelter)
 
