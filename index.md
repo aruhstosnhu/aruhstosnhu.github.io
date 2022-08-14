@@ -36,9 +36,7 @@ As a first generation computer science major, I aim to work in the cyber securit
 
 ## Enhanced Artifact I: Agile Project Charter and SNHU Travel Webinar Application
 
-### <p align="center">
-Both original and enhanced artifacts can be found in the GitHub Repo [aruhstosnhu/SNHUTravelWebinar](https://github.com/aruhstosnhu/SNHUTravelWebinar)
-</p>
+### Both original and enhanced artifacts can be found in the GitHub Repo [aruhstosnhu/SNHUTravelWebinar](https://github.com/aruhstosnhu/SNHUTravelWebinar)
 
 The artifact I decided to go with for Enhancement One is my “Top 5 Destinations SlideShow” Java application. I also chose to update the application’s project charter. It was originally created in my CS-250 course, Software Development Lifecycle,  in October of 2019. 
 
@@ -57,7 +55,7 @@ The reason why I chose this artifact is because my enhanced charter will show th
 - In Marketing slide, added link to Google Sheet that displays pricing chart
 - Edited SDLC Charter to include Sales and Marketing team
 
-### Course Objectives
+### Course and Industry Objectives
 
 Enhancement One meets the following CS-499 objectives, specifically:
 
@@ -83,13 +81,54 @@ Yes, my updated code shows that I am able to create a more advanced slideshow wi
 
 ## Enhanced Artifact II: SNHU Zoo Monitoring System Application and PowerShell Scripting
 
+### Both original and enhanced artifacts can be found in the GitHub Repo [aruhstosnhu/monitoringSystem](https://github.com/aruhstosnhu/monitoringSystem)
 
-### <p align="center">
-Both original and enhanced artifacts can be found in the GitHub Repo [aruhstosnhu/monitoringSystem](https://github.com/aruhstosnhu/monitoringSystem)
-</p>
+The artifact I decided to go with for Enhancement Two is my “Monitoring System” Java application. It was originally created in my IT-145 course, Foundation in Application Development, in March of 2019. 
+
+### Inclusion
+
+The reason why I chose this artifact is because adding the two new methods to convert and generate these CSV reports provides efficiency in reading the data from the Monitoring System. This also automates the task of creating these reports, where before, a Zookeeper would have had to create these reports manually. These methods also expand the complexity since we are providing two brand-new action options for the users to choose from in the Main Menu console.
+
+### Enhancements
+
+- Created two new PowerShell scripts to convert the habitats and animals TXT files into CSV reports:
+  - `Generateanimalreport.ps1`
+  - `Generatehabitatreport.ps1`
+- Created two new Java class methods to execute the PowerShell scripts and print either success or fail:
+  - `GenerateAnimalReport.java`
+  - `GenerateHabitatReport.java`
+- Called to these two methods in my main method to display as choices in the application:
+  - `MonitoringSystem.java`
+
+### Course and Industry Objectives
+
+Enhancement Two meets the following CS-499 objectives, specifically:
+
+1. **CS-499-01:**
+  - *Does the student demonstrate the ability to provide contextual, in-code comments that result in easily readable and understandable code?*   
+Yes, my code includes in-depth and improved comments throughout my application that details what each section does.
+2. **CS-499-02:**
+  - *Does the student demonstrate the ability to communicate appropriately to specific audiences and contexts?*   
+Yes, both my improved code and code review video show that I am able to communicate to the targeted audience of the SNHU Zoo Monitoring System. 
+  - *Does the student demonstrate the ability to clearly convey his or her ideas and explain his or her thought process through written, visual, or oral communication?*   
+Yes, my code review shows that I understand the user’s point-of-view, and how to communicate with non-technical users.
+3. **CS-499-03:**
+  - *Does the student demonstrate the ability to program solutions to solve logic problems and implement them in software?*   
+Yes, by viewing the application as a Zookeeper, I was able to identify the improvements that generating CSV reports would add to the Monitoring System.
+4. **CS-499-04:**
+  - *Does the student create more robust and efficient code to deliver value and accomplish industry-specific goals?*   
+Yes, my updated code shows that I am able to create a more advanced application with improved brand new behavior by generating reports. This also shows I understand how to automate tasks for users to simplify their job requirements (by creating the animal and habitat reports from the PowerShell script).
 
 ## Enhanced Artifact III: Animal Shelter SQL Database and Datamining
 
-### <p align="center">
-Both original and enhanced artifacts can be found in the GitHub Repo [aruhstosnhu/animalShelter](https://github.com/aruhstosnhu/animalShelter)
-</p>
+### Both original and enhanced artifacts can be found in the GitHub Repo [aruhstosnhu/animalShelter](https://github.com/aruhstosnhu/animalShelter)
+
+The artifact I decided to go with for Enhancement Three is creating and data mining my own MySQL database called “animalshelterdb”. This artifact and its supporting items are inspired by the knowledge I gained in my DAD-220 course, Introduction to SQL, and DAT-220 course, Fundamentals of Data Mining.  
+
+### Inclusion
+
+### Enhancements
+
+### Course and Industry Objectives
+
+
