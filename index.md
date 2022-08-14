@@ -142,12 +142,33 @@ The reason why I chose this artifact is because creating a MySQL database from s
 - Ran multiple queries on `animalshelterdb` database (included in SQL file). For example:
 ![SQLQuery](https://user-images.githubusercontent.com/92700885/184547251-614f403e-5254-4bcd-9408-4850add61e77.png)
 ![QueryResults](https://user-images.githubusercontent.com/92700885/184547263-6271a266-bf61-4ec9-92f7-e2a0c43e2918.png)
-- Created data mining charts and graphs pulled from the ‘animalshelterdb’ MySQL database using SOFAstats:
+- Created data mining charts and graphs pulled from the `animalshelterdb` MySQL database using SOFAstats:
   - `ageVSadoption` report
   - `rabiesVSadoption` report
 - Created results and research document on best practices regarding database security and maintenance
 
-
 ### Course and Industry Objectives
 
+Enhancement Three meets the following CS-499 objectives, specifically:
 
+1. **CS-499-01:**
+  - *Does the student demonstrate the ability to provide contextual, in-code comments that result in easily readable and understandable code?*   
+Yes, my code includes in-depth and improved comments throughout my application that details what each section does.
+2. **CS-499-02:**
+  - *Does the student demonstrate the ability to communicate appropriately to specific audiences and contexts?*   
+Yes, both my improved code and code review video show that I am able to communicate to the targeted audience of the someone who wants to use the database for a veterinarian office. 
+  - *Does the student demonstrate the ability to clearly convey his or her ideas and explain his or her thought process through written, visual, or oral communication?*   
+Yes, my code review shows that I understand the user’s point-of-view, and how to communicate with non-technical users.
+  - *Does the student demonstrate the ability to discuss experiences and best practices in communication?*   
+Yes, my research document shows that I understand the best practices for securely managing a database at all levels, including network, physical, application, and user.
+3. **CS-499-03:**
+  - *Does the student demonstrate the ability to program solutions to solve logic problems and implement them in software?*   
+Yes, by looking at my database in eyes of a animal shelter employee, I understood what SQL queries and data mining reports I wanted to pull that were appropriate for the position. For example, understand that, if the animal does not have the rabies vaccine, then they are not ready to be adopted, shows me as an animal shelter employee what animals need vet appointments to get vaccinated.
+4. **CS-499-04:**
+  - *Does the student create more robust and efficient code to deliver value and accomplish industry-specific goals?*   
+Yes, my updated code shows that I am able to create a database from scratch query from it, build statistical reports from it, and understand database security best practices.
+  - *Does the student discuss experiences and best practices in using well-founded and innovative techniques, skills, and tools in computing practices?*   
+Yes, using SOFAstats (a trusted open-source data mining tool) shows that I understand to use best practices and well-founded tools in computing practices. My research document also shows that I understand the skills needed to securely manage a database.
+5. **CS-499-05:**
+  - *Does the student demonstrate the ability to discuss experiences and best practices in developing a security mindset?*   
+Yes, my research document shows that I understand the best practices for securely managing a database at all levels, including network, physical, application, and user.
