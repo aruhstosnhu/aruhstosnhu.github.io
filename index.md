@@ -1,6 +1,6 @@
 # Angela Ruhstorfer: Computer Science Program ePortfolio
 
-My name is Angela (Angie) Ruhstorfer, and I am a student of Southern New Hampshire University's Computer Science program, with a concentration in Information Security. This ePortfolio contains three artifacts and their code reviews from three categories:
+My name is Angela (Angie) Ruhstorfer, and I am a student of Southern New Hampshire University's (SNHU) Computer Science program, with a concentration in Information Security. This ePortfolio contains three artifacts and their code reviews from three categories:
 
 1. Software Design and Engineering
 2. Algorithms and Data Structure
