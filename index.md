@@ -127,7 +127,19 @@ The artifact I decided to go with for Enhancement Three is creating and data min
 
 ### Inclusion
 
+The reason why I chose this artifact is because creating a MySQL database from scratch and querying from it shows that I have mastered category three, databases. The reports I pulled using SOFAstats also show that I understand how to incorporate data mining methods into a database that I created. Lastly, adding the report results and security research document shows that I understand what needs be done from a security-perspective, in order to protect my database.
+
 ### Enhancements
+
+- Created `animalshelterdb` MySQL database (provided SQL file)
+- Ran multiple queries on `animalshelterdb` database (included in SQL file). For example:
+![SQLQuery](https://user-images.githubusercontent.com/92700885/184547251-614f403e-5254-4bcd-9408-4850add61e77.png)
+![QueryResults](https://user-images.githubusercontent.com/92700885/184547263-6271a266-bf61-4ec9-92f7-e2a0c43e2918.png)
+- Created data mining charts and graphs pulled from the ‘animalshelterdb’ MySQL database using SOFAstats:
+  - `ageVSadoption` report
+  - `rabiesVSadoption` report
+- Created results and research document on best practices regarding database security and maintenance
+
 
 ### Course and Industry Objectives
 
